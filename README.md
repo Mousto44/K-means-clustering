@@ -21,3 +21,4 @@ exécuté le script suivant
 
 **code/projet_kmeans_22_01_21.ipynb**
 
+![](bristol.JPG)
