@@ -21,4 +21,9 @@ exécuté le script suivant
 
 **code/projet_kmeans_22_01_21.ipynb**
 
+# Capture de la ville de Brisbane
+
+sur cette image, on retrouve les trois 3 groupes.
+
+
 ![](bristol.JPG)
