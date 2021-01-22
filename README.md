@@ -20,3 +20,4 @@ Le fichier properties.conf contient les configurations de l'environnement de tra
 exécuté le script suivant
 
 **code/projet_kmeans_22_01_21.ipynb**
+
