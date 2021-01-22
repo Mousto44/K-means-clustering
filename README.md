@@ -7,4 +7,9 @@ data contient le jeu de données Bristol-city-bike.json.
 exported contient le fichier csv contenant le résultat de l'analyse.
 out_put contient le fichier brisbane.html correspondant à la carte de la ville de Brisbane.
 Le fichier properties.conf contient les configurations de l'environnement de travail.
-![]("bristol.JPG")
+
+# lancement du code
+
+exécuté le script suivant
+
+**code/projet_kmeans_22_01_21.ipynb**
